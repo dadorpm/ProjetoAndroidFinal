@@ -1,3 +1,22 @@
 <resources>
-    <string name="app_name">ProjetoAndroidFinal</string>
+    <string name="app_name">Projeto Android</string>
+    <string name="lblEscola">Escola</string>
+    <string name="lblAluno">Aluno</string>
+    <string name="lblSerie">Série</string>
+    <string name="btnCadastrar">Enviar</string>
+    <string name="btnConsultar">Consultar</string>
+    <string name="lblLogin">Login</string>
+    <string name="lblQtd">Digite a quantidade de livros</string>
+    <string name="btnCalcularLivro">Calcular</string>
+    <string name="lblSenha">Senha</string>
+    <string name="lblEntrar">Entrar no Sistema</string>
+    <string name="menu">Menu</string>
+    <string name="lblBemVindo">Seja Bem Vindo!</string>
+    <string name="voltarMenu">Voltar</string>
+    <string name="infMenu">Descrição do Menu</string>
+    <string name="lblCep">Digite o CEP para encontrar o endereço da sua Escola</string>
+    <string name="lblLivro">Digite o nome do livro que deseja alugar: </string>
+    <string name="lblInfLivro">obs.: cada livro é cobrado um valor de R$25,00</string>
+    <string name="lblSobre">Este app foi desenvolvido no contexto educacional, onde é possivel armazenar informações de alunos, pesquisar um endereço e alugar livro, fiquem a vontade para desfrutar da plataforma. \n\n Equipe RCETECH \nAdauto, Andrei, Denner e Marcelo</string>
+
 </resources>
